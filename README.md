@@ -4,8 +4,7 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-(https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/3e1f5d7e-9837-46ff-90dd-8a59b70659a5)
-)
+![link](https://mavenanalytics.io/project/20476)
 
 ---
 ## Tech Stacks
