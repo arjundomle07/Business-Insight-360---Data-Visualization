@@ -4,7 +4,7 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-[Live Report Link](https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/d2daf87e-4ced-411e-90f8-b5a77dc87738)
+[Live Report Link](https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/3e1f5d7e-9837-46ff-90dd-8a59b70659a5)
 )
 
 ---
@@ -206,7 +206,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Products.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Products%20View.gif)
 
 
-you can find the full report here : [Report](https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/d2daf87e-4ced-411e-90f8-b5a77dc87738)
+you can find the full report here : [Report](https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/a5f7bc9d-864a-48cd-95a6-bba90315cc35)
 )
 
 ---
