@@ -8,7 +8,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 Live Report Link
 ---
-## Tech stacks
+## Tech Stacks
 
 - SQL
 - PowerBi Desktop
@@ -17,7 +17,7 @@ Live Report Link
 - DAX studio (for optimizing the report)
 - Project charter file
 ---
-## PowerBI techniques Learnt
+## PowerBI Techniques Learned
 
 - What are all the questions should be asked before staring the project
 - Creating calculated columns
@@ -180,30 +180,32 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 ## Overall Report
-![Overall](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Executive.gif)
+![Overall](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Overall.gif)
 
 ## Info Page
-Info.gif
+![Info.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Info.gif)
 
 ## Finance View
-Finace.gif
+![Finance.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Finace.gif)
 
 ## Sales View
-Sales.gif
+![Sales.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Sales.gif)
 
 ## Marketing View
-Marketing.gif
+![Marketing.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Marketing.gif)
 
 ## Supply chain View
-Supply chain.gif
+![Supply chain.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/supply%20chain.gif)
 
 ## Executive View
-Executive.gif
+![Executive.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Executive.gif)
 
-Products
-Products
+## Products View
+![Products.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Products%20View.gif)
+
 
 you can find the full report file here : Report
+---
+## Project Outcome
 
-Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
