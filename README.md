@@ -4,9 +4,9 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
+[Live Report Link](https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/d2daf87e-4ced-411e-90f8-b5a77dc87738)
+)
 
-Live Report Link
 ---
 ## Tech Stacks
 
@@ -158,7 +158,7 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
+- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices)
 - In this project, we have followed Snowfall data modeling method.
 
 ![image](https://github.com/user-attachments/assets/31efddd2-2c42-46cc-bb20-dac1c956e1a3)
@@ -206,7 +206,8 @@ In Home view, all the views button will be available. User will land on specific
 ![Products.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Products%20View.gif)
 
 
-you can find the full report file here : Report
+you can find the full report here : [Report](https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/d2daf87e-4ced-411e-90f8-b5a77dc87738)
+)
 
 ---
 ## Project Outcome
