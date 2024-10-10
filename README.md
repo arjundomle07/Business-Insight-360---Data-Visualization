@@ -58,7 +58,7 @@ Live Report Link
 - Distributors
 - Consumer
 ---
-## Company’s back ground
+## Background of Company
 
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
@@ -85,6 +85,7 @@ Project kick off session, where you should get clear of for what and why this pr
 - is there any inputs from stakeholders in terms of design and views of the dashboard?
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
+
 ---
 ## Dataset Understanding.
 
@@ -166,6 +167,7 @@ Fact table : It will have the data about the transactions
 ## Dashboard designing
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
 ---
 ## Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
@@ -205,6 +207,7 @@ In Home view, all the views button will be available. User will land on specific
 
 
 you can find the full report file here : Report
+
 ---
 ## Project Outcome
 
