@@ -205,8 +205,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Products.gif](https://github.com/arjundomle07/Business-Insight-360---Data-Visualization/blob/main/Resources/Products%20View.gif)
 
 
-you can find the full report here : [Report](https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/a5f7bc9d-864a-48cd-95a6-bba90315cc35)
-)
+you can find the full report here : [Report](https://mavenanalytics.io/project/20476)
 
 ---
 ## Project Outcome
