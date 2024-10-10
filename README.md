@@ -1,19 +1,19 @@
 # Business-Insight-360---Data-Visualization
-Data Visualization
-Project Overview
+
+##Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
 
 Live Report Link
 
-Tech stacks
-SQL
-PowerBi Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
-Project charter file
+##Tech stacks
+1. SQL
+2. PowerBi Desktop
+3. Excel
+4. DAX language
+5. DAX studio (for optimizing the report)
+6. Project charter file
 PowerBI techniques Learnt
 What are all the questions should be asked before staring the project
 Creating calculated columns
